@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ComposeRestaurant</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About Me</string>
+    <string name="scroll_to_top">scroll to top</string>
+    <string name="image_resto">Image Restaurant</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="detail_restaurant">Detail Restaurants</string>
+    <string name="search_restaurant">Cari restaurant</string>
+</resources>
